@@ -1,1 +1,0 @@
-# alpen-kata
