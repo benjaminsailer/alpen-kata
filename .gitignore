@@ -4,3 +4,6 @@
 /.project
 /.classpath
 /.settings/
+
+# Project exclude paths
+/spring-boot-alpen-kata/target/
